@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6813fac4","path":"/docs/miobot/end.html","title":"写在结尾","lang":"en-US","frontmatter":{"title":"写在结尾","date":"2020/05/27"},"headers":[],"git":{},"filePathRelative":"docs/miobot/end.md"}');export{t as data};
