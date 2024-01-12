@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7c5a7dde","path":"/docs/miobot/install.html","title":"部署","lang":"en-US","frontmatter":{"title":"部署","date":"2020/05/29"},"headers":[],"git":{},"filePathRelative":"docs/miobot/install.md"}');export{t as data};

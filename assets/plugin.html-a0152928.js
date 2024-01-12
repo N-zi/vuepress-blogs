@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,b as n}from"./app-7c879064.js";const o={},_=n("p",null,"施工中",-1),s=[_];function l(r,a){return t(),c("div",null,s)}const u=e(o,[["render",l],["__file","plugin.html.vue"]]);export{u as default};
