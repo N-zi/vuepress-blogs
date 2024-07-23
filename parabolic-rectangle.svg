@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1500">
+	<rect fill="none" width="100%" height="100%" />
+	<defs>
+		<rect fill="none" stroke-width="6.6" stroke-opacity="1" id="a" x="-400" y="-300" width="800" height="600" />
+	    
+    </defs>
+	<g transform="" style="transform-origin:center">
+        <animateTransform attributeType="xml" attributeName="transform" type="rotate" values="0 ;360" dur="60s"  repeatCount="indefinite" />
+		<g transform="" style="transform-origin:center">
+			<g transform="rotate(-120 0 0)" style="transform-origin:center">
+				<g transform="translate(1000 750)">
+					<use stroke="#000" href="#a" transform="rotate(7.5 0 0) scale(1.075)" />
+					<use stroke="#070511" href="#a" transform="rotate(15 0 0) scale(1.15)" />
+					<use stroke="#0d0922" href="#a" transform="rotate(22.5 0 0) scale(1.225)" />
+					<use stroke="#140e33" href="#a" transform="rotate(30 0 0) scale(1.3)" />
+					<use stroke="#1b1244" href="#a" transform="rotate(37.5 0 0) scale(1.375)" />
+					<use stroke="#211755" href="#a" transform="rotate(45 0 0) scale(1.45)" />
+					<use stroke="#281b66" href="#a" transform="rotate(52.5 0 0) scale(1.525)" />
+					<use stroke="#2f2077" href="#a" transform="rotate(60 0 0) scale(1.6)" />
+					<use stroke="#352488" href="#a" transform="rotate(67.5 0 0) scale(1.675)" />
+					<use stroke="#3c2999" href="#a" transform="rotate(75 0 0) scale(1.75)" />
+					<use stroke="#432daa" href="#a" transform="rotate(82.5 0 0) scale(1.825)" />
+					<use stroke="#4932bb" href="#a" transform="rotate(90 0 0) scale(1.9)" />
+					<use stroke="#5036cc" href="#a" transform="rotate(97.5 0 0) scale(1.975)" />
+					<use stroke="#573bdd" href="#a" transform="rotate(105 0 0) scale(2.05)" />
+					<use stroke="#5d3fee" href="#a" transform="rotate(112.5 0 0) scale(2.125)" />
+					<use stroke="#6444FF" href="#a" transform="rotate(120 0 0) scale(2.2)" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
